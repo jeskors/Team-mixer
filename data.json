@@ -19,6 +19,9 @@
     { name: "Vilfred Bakke", rating: "C" },
     { name: "Zacharias Vand Kjeldgaard", rating: "B2" },
     { name: "Janus Pedersen", rating: "C" },
+    { name: "Henning", rating: "C" },
+
+    
   ],
   "exercises": [
     "Tæmninger (inderside/fodsål)",
